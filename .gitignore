@@ -1,2 +1,7 @@
+# IDEA
+.idea
+classes
+out
+
 # Vim
 *.swp
