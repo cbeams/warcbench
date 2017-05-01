@@ -10,3 +10,6 @@ insert_final_newline = true
 
 [{*.html,*.js,*.css,*.yml,*.xml}]
 indent_size = 2
+
+[{*.warc,*.wat,*.wet}]
+end_of_line = crlf
