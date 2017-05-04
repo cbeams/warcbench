@@ -7,9 +7,29 @@
         <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
         <option name="IMPORT_LAYOUT_TABLE">
           <value>
+            <package name="io.webgraph.warc" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="org.iokit.message" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="org.iokit.gzip" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="org.iokit.general" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="org.iokit.core" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="org.iokit.util" withSubpackages="true" static="false" />
+            <emptyLine />
             <package name="org.junit" withSubpackages="true" static="false" />
             <emptyLine />
+            <package name="org.assertj.core.api" withSubpackages="true" static="false" />
+            <emptyLine />
             <package name="java.net" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="java.util.zip" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="it.unimi.dsi.fastutil" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="java.nio" withSubpackages="true" static="false" />
             <emptyLine />
             <package name="java.io" withSubpackages="true" static="false" />
             <emptyLine />
