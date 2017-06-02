@@ -12,6 +12,7 @@ import java.util.zip.GZIPInputStream;
 import static java.nio.charset.StandardCharsets.UTF_8;
 import static org.assertj.core.api.Assertions.assertThat;
 
+@Ignore
 public class RandomAccessExperiments {
 
 
