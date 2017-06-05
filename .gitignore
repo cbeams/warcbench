@@ -6,6 +6,7 @@ build
 .idea
 classes
 out
+*.iml
 
 # Structure101
 *.hsp
