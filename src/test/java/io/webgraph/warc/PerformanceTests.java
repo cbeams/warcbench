@@ -12,5 +12,6 @@ public class PerformanceTests {
     public void test() {
         assertThat(new File(getClass().getResource("/foo.warc").getFile())).exists();
         assertThat(new File(getClass().getResource("/foo.warc.gz").getFile())).exists();
+        assertThat(new File(getClass().getResource("/bogus.warc").getFile())).exists(); // should fail
     }
 }
